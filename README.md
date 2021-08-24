@@ -1,3 +1,3 @@
 # Palmer-Penguins
 
-You can find the dataset (https://allisonhorst.github.io/palmerpenguins/)[here].
+You can find the dataset [here](https://allisonhorst.github.io/palmerpenguins/).
